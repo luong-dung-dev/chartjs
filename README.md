@@ -17,4 +17,4 @@ http://127.0.0.1:8000/chartjs
 ```
 ## Demo image
 
-![Screen Shot 2022-02-25 at 09 51 33](https://user-images.githubusercontent.com/10114141/155645774-2b7f4b27-420b-43cf-ae74-fbeed4e8cc9d.png)
+![Screen Shot 2022-02-25 at 10 15 40](https://user-images.githubusercontent.com/10114141/155647500-1b0906b8-04eb-48f2-bb81-de9d2f67e20a.png)
